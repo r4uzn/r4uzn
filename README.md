@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=W3LC0M3+CL3VFL0+W0RLD;Second+line+of+text)](https://git.io/typing-svg)
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CLEVFLO&layout=compact)
 <!--
 **CL3VFL0/CL3VFL0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
