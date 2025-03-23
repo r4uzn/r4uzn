@@ -14,7 +14,7 @@
        </div> 
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src=https://github-readme-stats.vercel.app/api?username=clevflo&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical"
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src=https://github-readme-stats.vercel.app/api?username=R4uzN&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical"
         /> <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clevflo&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
           /> --> </div> 
     </div>
