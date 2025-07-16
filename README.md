@@ -1,10 +1,20 @@
-<div align= "center">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=9900ff&height=120&text=:)&animation=twinkling&fontColor=bb00ff&fontSize=50" />
+</div>
+
+<div align="center">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> </h2>
+  <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
+    <a href="https://r4uzn.github.io" style="text-decoration: none; color: #bb00ff;">r4uzn</a>
+  </div>
+</div>
+<!--<div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=transparent&color=9900ff&height=120&text=:)&animation=twinkling&fontColor=bb00ff&fontSize=50" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
-    </div>
+    </div>-->
    <!-- <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=mailto:726ksm@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:726ksm@gmail.com"> </a>
