@@ -1,6 +1,6 @@
 <div align="center">
-    -
-    -
+</div>
+<div allign="center">
     <img width="1122" height="130" alt="Image" src="https://github.com/user-attachments/assets/e4082edd-0c9f-467d-a645-5a2267de85eb" />
     <img src="https://capsule-render.vercel.app/api?type=transparent&color=9900ff&height=120&text=:)&animation=twinkling&fontColor=bb00ff&fontSize=50" />
 </div>
