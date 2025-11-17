@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=9900ff&height=120&text=:)&animation=twinkling&fontColor=bb00ff&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&color=9900ff&height=120&text=:)&animation=twinkling&fontColor=bb00ff&fontSize=50" />
+    <img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/04a53899-8b43-43ec-b33b-812ecb48dec7" />
 </div>
 
 <div align="center">
