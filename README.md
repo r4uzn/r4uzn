@@ -1,4 +1,3 @@
-# 강성민 / Sungmin Kang / rauzn
 <br>
 <div align="center">
     <!-- <img width="1000" height="130" alt="Image" src="https://github.com/user-attachments/assets/e4082edd-0c9f-467d-a645-5a2267de85eb" /> -->
